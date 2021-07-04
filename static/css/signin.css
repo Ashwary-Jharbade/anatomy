@@ -1,0 +1,60 @@
+.signinBox{
+  background-color: white;
+  margin: 10% 10% auto;
+  -webkit-box-shadow: -1px 6px 13px 0px rgba(0,0,0,0.44);
+  -moz-box-shadow: -1px 6px 13px 0px rgba(0,0,0,0.44);
+  box-shadow: -1px 6px 13px 0px rgba(0,0,0,0.44);
+  padding: 20px 50px;
+}
+
+h3{
+  color: #033b6e;
+}
+
+::placeholder{
+  color: #033b6e !important;
+}
+
+.signindata{
+  margin:10px auto;
+}
+
+.signindata input{
+  border: 2px solid grey;
+  box-shadow: none !important;
+  outline: none !important;
+  margin: 15px 0px;
+}
+
+.signindata input[type="submit"]{
+  background-color: #033b6e;
+  color: white;
+  border-color: #033b6e;
+  margin-top: 30px;
+}
+
+.signindata input[type="button"]{
+  background-color: #033b6e;
+  color: white;
+  border-color: #033b6e;
+}
+
+.signindata input:focus{
+  border: 2px solid #033b6e;
+  box-shadow: none !important;
+  outline: none !important;
+}
+
+.signindata label{
+  font-size: 14px;
+  color: grey;
+}
+
+p{
+  font-size: 14px;
+  color: grey;
+}
+
+a{
+  text-decoration: none;
+}
