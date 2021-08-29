@@ -2,7 +2,7 @@
 Anatomy is a web application which has a potential to predicts diseases caused due to genetic mutations using DNA sequencing and machine learning. At present the platform support prediction of COVID 19 using genetic sequence. Similary the concept can be used for other gene affecting diseases like Diabetes, AIDS etc.
 
 # Project Link
-http://twinfinn.pythonanywhere.com/
+#### [Demo - Anatomy](http://twinfinn.pythonanywhere.com/)
 
 # Project Dependencies
 1. python version 3.7
