@@ -19,3 +19,12 @@ Anatomy is a web application which has a potential to predicts diseases caused d
 5. Migrate the database using python manage.py migrate
 6. Run the server using python manage.py runserver
 7. Search on browser url localhost:8000
+
+# Credentials to access Anatomy
+Username - admin@example.com
+Password - Admin
+
+# Steps to check for a COVID test on Anatomy
+1. Download a nucleotide sequence or get your own neuclotide sequence. Note - The nucleotide sequence should have fasta format/extention
+2. Click on the choose file option and select your previously downloaded nucleotide sequence and hit the arrow icon.
+3. Now wait fot the result and observe the graphical as well as textual report of the test. 
